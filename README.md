@@ -6,17 +6,16 @@ MongoDB
 Getting Started
 Clone the Repository:
 
-bash
-Copy code
+
+
 git clone <repository-url>
 Navigate to the Project Directory:
 
-bash
-Copy code
+
 cd <project-directory>
 Install Dependencies:
 
-Copy code
+
 npm install
 Set Up Environment Variables:
 Create a .env file in the root directory of the project and define the following variables:
